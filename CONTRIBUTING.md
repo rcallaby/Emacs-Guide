@@ -3,8 +3,6 @@
 Thank you for considering contributing to the Emacs Guide! We appreciate your interest in helping us create a comprehensive and helpful tutorial on using Emacs. By contributing, you can help make this guide even more valuable to the Emacs community.
 
 Please take a moment to review this guide to understand how you can contribute effectively.
-Certainly! Here's a template for a `CONTRIBUTING.md` file for your "Emacs Guide" GitHub repository:
-
 
 # Contributing to Emacs Guide
 

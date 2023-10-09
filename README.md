@@ -64,3 +64,12 @@ Emacs is a legendary text editor with a rich history and a dedicated user base. 
 
 
 #### Table of Contents
+
+- Part 01 - Introduction
+- Part 02 - Essential Editing
+- Part 03 - Customizing Emacs
+- Part 04 - Advanced Editing
+- Part 05 - Version Control
+- Part 06 - Files and Directories
+- Part 07 - Emacs Extensions
+- Part 08 - Emacs Lisp

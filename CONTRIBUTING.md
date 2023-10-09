@@ -10,6 +10,7 @@ Thank you for considering contributing to the Emacs Guide! We appreciate your in
 
 Please take a moment to review this guide to understand how you can contribute effectively.
 
+
 ## Getting Started
 
 1. **Fork the Repository**: Click the "Fork" button at the top-right corner of this repository to create your own copy.

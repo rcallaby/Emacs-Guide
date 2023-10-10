@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
         issues: write
+        pull-requests: write  # Grant the action permissions for pull requests
     steps:
     - uses: actions/stale@v8
       with:
@@ -16,3 +17,6 @@ jobs:
         days-before-issue-stale: 60
         stale-issue-label: 'stale'
         stale-issue-message: 'This issue has been automatically marked as stale because it has not had recent activity. Thank you for your contributions.'
+        days-before-pr-stale: 21
+        stale-pr-label: 'stale'
+        stale-pr-message: 'This pull request has been automatically marked as stale because it has not had activity within 21 days. Thank you for your contributions.'  # Add this line to specify the message for stale PRs

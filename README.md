@@ -50,11 +50,11 @@ Emacs is a legendary text editor with a rich history and a dedicated user base. 
 
 
 ## Table of Contents
-- [Part 01 - Introduction](Lessons/Part-01-Introduction/Introduction.md)
-- [Part 02 - Essential Editing](Lessons/Part-02-Essential-Editing/EssentialEditing.md)
-- [Part 03 - Customizing Emacs](Lessons/Part-03-Customizing-Emacs/customizingemacs.md)
-- [Part 04 - Advanced Editing](Lessons/Part-04-Advanced-Ediiting/advancedediting.md)
-- [Part 05 - Version Control](Lessons/Part-05-Version-Control/versioncontrol.md)
-- [Part 06 - Files and Directories](Lessons/Part-06-Files-and-Directories/filesanddirectories.md)
-- [Part 07 - Emacs Extensions](Lessons/Part-07-Emacs-Extensions/emacsextensions.md)
-- [Part 08 - Emacs Lisp](Lessons/Part-08-Emacs-Lisp/Emacs-Lisp.md)
+- [Part 01 - Introduction](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-01-Introduction/Introduction.md)
+- [Part 02 - Essential Editing](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-02-Essential-Editing/EssentialEditing.md)
+- [Part 03 - Customizing Emacs](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-03-Customizing-Emacs/customizingemacs.md)
+- [Part 04 - Advanced Editing](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-04-Advanced-Ediiting/advancedediting.md)
+- [Part 05 - Version Control](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-05-Version-Control/versioncontrol.md)
+- [Part 06 - Files and Directories](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-06-Files-and-Directories/filesanddirectories.md)
+- [Part 07 - Emacs Extensions](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-07-Emacs-Extensions/emacsextensions.md)
+- [Part 08 - Emacs Lisp](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-08-Emacs-Lisp/Emacs-Lisp.md)

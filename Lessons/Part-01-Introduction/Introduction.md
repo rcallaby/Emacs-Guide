@@ -1,3 +1,12 @@
+# Table of Contents
+- [Introduction](#introduction)
+- [Introduction](#introduction-1)
+- [History of Emacs](#history-of-emacs)
+- [Installing and Setting up Emacs](#installing-and-setting-up-emacs)
+- [Basic Navigation and Commands](#basic-navigation-and-commands)
+- [Help](#help)
+- [Customization](#customization)
+- [Conclusion](#conclusion)
 # Introduction
 # Getting Started with Emacs
 

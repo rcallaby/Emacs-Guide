@@ -1,11 +1,12 @@
 # Table of Contents
-- Introduction https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-01-Introduction/Introduction.md#introduction-1
-- History of Emacs https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-01-Introduction/Introduction.md#history-of-emacs
-- Installing and Setting up Emacs https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-01-Introduction/Introduction.md#installing-and-setting-up-emacs
-- Basic Navigation and Commands https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-01-Introduction/Introduction.md#basic-navigation-and-commands
-- Help https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-01-Introduction/Introduction.md#help
-- Customization https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-01-Introduction/Introduction.md#customization
-- Conclusion https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-01-Introduction/Introduction.md#conclusion
+- [Introduction](#introduction)
+- [Introduction](#introduction-1)
+- [History of Emacs](#history-of-emacs)
+- [Installing and Setting up Emacs](#installing-and-setting-up-emacs)
+- [Basic Navigation and Commands](#basic-navigation-and-commands)
+- [Help](#help)
+- [Customization](#customization)
+- [Conclusion](#conclusion)
 # Introduction
 # Getting Started with Emacs
 

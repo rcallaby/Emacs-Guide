@@ -1,3 +1,8 @@
+# Table of Contents
+- [Introduction](#introduction)
+- [File Management](#file-management)
+- [Project Management with Projectile](#project-management-with-projectile)
+- [Conclusion](#conclusion)
 # Mastering File and Project Management in Emacs
 
 ## Introduction

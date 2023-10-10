@@ -1,0 +1,18 @@
+name: Mark stale pull requests
+
+on:
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    permissions:
+        pull-requests: write  # Grant the action permissions for pull requests
+    steps:
+    - uses: actions/stale@v8
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        days-before-pr-stale: 21
+        stale-pr-label: 'stale'
+        stale-pr-message: 'This pull request has been automatically marked as stale because it has not had activity within 21 days. Thank you for your contributions.'

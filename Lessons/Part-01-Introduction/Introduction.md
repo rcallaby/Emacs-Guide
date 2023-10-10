@@ -1,6 +1,17 @@
 # Introduction
 # Getting Started with Emacs
 
+# Table Of Contents
+
+General Information
+History 
+Get started by Downloading
+Simple Code Ideas
+How to Save your work
+The Basics
+Personalization
+Summary
+
 ## Introduction
 
 Emacs is a powerful, extensible text editor known for its versatility and flexibility. It's a favorite among developers, writers, and anyone who spends a lot of time working with text. Emacs stands out for its ability to adapt to various tasks through the use of plugins and customization, making it much more than just a text editor.

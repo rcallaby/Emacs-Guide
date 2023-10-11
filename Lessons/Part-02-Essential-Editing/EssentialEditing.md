@@ -1,3 +1,17 @@
+# Table of Contents
+- [Introduction](#introduction)
+- [Essential Editing Commands in Emacs](#essential-editing-commands-in-emacs)
+- [Inserting, Deleting, and Moving Text](#inserting-deleting-and-moving-text)
+   - [1. Inserting Text](#1-inserting-text)
+   - [2. Deleting Text](#2-deleting-text)
+   - [3. Moving Text](#3-moving-text)
+   - [4. Copying, Cutting, and Pasting](#4-copying-cutting-and-pasting)
+- [Session 4: Searching and Replacing](#session-4-searching-and-replacing)
+   - [Exploring Search and Replace in Emacs](#exploring-search-and-replace-in-emacs)
+   - [Incremental Search](#incremental-search)
+   - [Regular Expressions in Search and Replace](#regular-expressions-in-search-and-replace)
+
+ 
 # Introduction
 ## Essential Editing Commands in Emacs
 

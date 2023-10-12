@@ -1,5 +1,10 @@
 # Introduction to Emacs Lisp
 
+- [Syntax and Data Types](#syntax-and-data-types)
+- [Variables, functions, and control structures](#variables-functions-and-control-structures)
+- [Custom Commands](#custom-commands)
+- [Writing Simple Modes and Extensions](#writing-simple-modes-and-extensions)
+
 ## Syntax and Data Types
 
 Emacs Lisp is the scripting language used in the Emacs text editor. It is a dialect of the Lisp programming language. In Emacs Lisp, code and data share the same syntax, known as S-expressions (sexps). S-expressions are nested lists, where the first element is usually a function or operator, and subsequent elements are arguments.

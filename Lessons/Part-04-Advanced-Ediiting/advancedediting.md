@@ -1,3 +1,7 @@
+# Table of Contents
+- [Emacs: Markers and Bookmarks](#emacs-markers-and-bookmarks)
+- [Emacs: Registers and Rectangles](#emacs-registers-and-rectangles)
+
 # Advanced Editing Techniques
 ---
 

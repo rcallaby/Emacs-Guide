@@ -1,5 +1,19 @@
 # Comprehensive Guide to Emacs ELPA, MELPA, and Package Archives
 
+### `Table of contents`
+
+- [Introduction](#introduction)
+
+- [Emacs Package Archives: ELPA and MELPA](#emacs-package-archives-elpa-and-melpa)
+  - [ELPA](#elpa-emacs-lisp-package-archive) 
+  - [MELPA](#melpa-milkypostmans-emacs-lisp-package-archive)
+
+- [Popular Emacs Packages](#popular-emacs-packages)
+  - [Org-mode for Organization and Productivity](#org-mode-for-organization-and-productivity)
+  - [Magit for Git Integration](#magit-for-git-integration)
+
+- [Conclusion](#conclusion)
+
 ## Introduction
 
 Emacs, the extensible text editor, is celebrated for its unparalleled customization capabilities. One of the key features that contributes to this power is its package management system. This system allows users to easily install, update, and manage extensions, enhancing Emacs' functionality.

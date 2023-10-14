@@ -3,15 +3,12 @@
 ### `Table of contents`
 
 - [Introduction](#introduction)
-
 - [Emacs Package Archives: ELPA and MELPA](#emacs-package-archives-elpa-and-melpa)
   - [ELPA](#elpa-emacs-lisp-package-archive) 
   - [MELPA](#melpa-milkypostmans-emacs-lisp-package-archive)
-
 - [Popular Emacs Packages](#popular-emacs-packages)
   - [Org-mode for Organization and Productivity](#org-mode-for-organization-and-productivity)
   - [Magit for Git Integration](#magit-for-git-integration)
-
 - [Conclusion](#conclusion)
 
 ## Introduction

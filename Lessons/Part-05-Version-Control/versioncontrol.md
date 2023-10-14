@@ -1,5 +1,28 @@
 # Integrating with Version Control Systems (e.g., Git) in Emacs
 
+### `Table of contents`
+
+- [Introduction](#introduction)
+
+- [Basic Git commands within Emacs](#basic-git-commands-within-emacs)
+  - [Initializing a Git Repository](#1-initializing-a-git-repository)
+  - [Staging Changes](#2-staging-changes)
+  - [Committing Changes](#3-committing-changes)
+  - [Pushing Changes](#4-pushing-changes)
+  - [Pulling Changes](#5-pulling-changes)
+
+
+- [Viewing Diffs and Managing Branches](#viewing-diffs-and-managing-branches)
+  - [Viewing Diffs](#1-viewing-diffs)
+  - [Managing Branches](#2-managing-branches)
+
+- [Emacs and Version Control Workflows](#emacs-and-version-control-workflows)
+  - [Branching, Merging, and Resolving Conflicts](#1-branching-merging-and-resolving-conflicts)
+  - [Committing and Pushing Changes](#2-committing-and-pushing-changes)
+
+- [Conclusion](#conclusion)
+
+
 ## Introduction
 
 Version control systems are crucial tools for managing code and collaborative development. Emacs, a powerful and extensible text editor, offers seamless integration with various version control systems, including Git. This article will explore how Emacs facilitates Git integration, covering basic Git commands, viewing diffs, managing branches, and incorporating Git into different workflows.

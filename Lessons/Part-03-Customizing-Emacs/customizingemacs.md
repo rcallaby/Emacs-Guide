@@ -3,11 +3,8 @@
 ### `Table of contents`
 
 - [Themes and Fonts](#themes-and-fonts)
-
 - [Configuring Window Layout](#configuring-window-layout)
-
 - [Keybindings and Macros](#keybindings-and-macros)
-
 - [Example Customization in `.emacs`](#example-customization-in-emacs)
 
 

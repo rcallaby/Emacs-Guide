@@ -1,73 +1,89 @@
 # Table of Contents
-- [Introduction](#introduction)
-- [Essential Editing Commands in Emacs](#essential-editing-commands-in-emacs)
-- [Inserting, Deleting, and Moving Text](#inserting-deleting-and-moving-text)
-   - [1. Inserting Text](#1-inserting-text)
-   - [2. Deleting Text](#2-deleting-text)
-   - [3. Moving Text](#3-moving-text)
-   - [4. Copying, Cutting, and Pasting](#4-copying-cutting-and-pasting)
-- [Session 4: Searching and Replacing](#session-4-searching-and-replacing)
-   - [Exploring Search and Replace in Emacs](#exploring-search-and-replace-in-emacs)
-   - [Incremental Search](#incremental-search)
-   - [Regular Expressions in Search and Replace](#regular-expressions-in-search-and-replace)
-
+- [Opening Emacs](#opening-emacs)
+- [Basic Navigation](#basic-navigation)
+- [Opening and Saving Files](#opening-and-saving-files)
+- [Editing Text](#editing-text)
+- [Exiting Emacs](#exiting-emacs)
  
-# Introduction
-## Essential Editing Commands in Emacs
 
-Emacs, a powerful text editor known for its extensibility and versatility, offers a wide array of essential editing commands. In Session 3, we delve into the fundamental operations for manipulating text.
+## Opening Emacs:
 
-### Inserting, Deleting, and Moving Text
+1. **Launch Emacs**: You can do this by typing `emacs` in the terminal and pressing Enter.
 
-#### 1. **Inserting Text**
+## Basic Navigation:
 
-   - `i` - Insert text before the cursor.
-   - `a` - Append text after the cursor.
-   - `o` - Open a new line below the current line and enter insert mode.
-   - `O` - Open a new line above the current line and enter insert mode.
+1. **Moving the Cursor**:
+   - Use the arrow keys to move the cursor.
+   - Alternatively, you can use the following keyboard shortcuts:
+     - `Ctrl + f`: Move forward one character.
+     - `Ctrl + b`: Move backward one character.
+     - `Ctrl + n`: Move to the next line.
+     - `Ctrl + p`: Move to the previous line.
+     - `Ctrl + a`: Move to the beginning of the line.
+     - `Ctrl + e`: Move to the end of the line.
+     - `Alt + f`: Move forward one word.
+     - `Alt + b`: Move backward one word.
 
-#### 2. **Deleting Text**
+2. **Scrolling**:
+   - `Ctrl + v`: Scroll down.
+   - `Alt + v`: Scroll up.
 
-   - `x` - Delete the character at the cursor.
-   - `dd` - Delete the entire line.
-   - `D` - Delete from the cursor to the end of the line.
-   - `dw` - Delete a word.
-   - `d$` - Delete from the cursor to the end of the line.
+## Opening and Saving Files:
 
-#### 3. **Moving Text**
+1. **Opening a File**:
+   - `Ctrl + x Ctrl + f`: This will prompt you for the file path. Type the path and press Enter.
 
-   - `h` - Move left (one character).
-   - `j` - Move down (one line).
-   - `k` - Move up (one line).
-   - `l` - Move right (one character).
-   - `w` - Move forward by a word.
-   - `b` - Move backward by a word.
-   - `0` - Move to the beginning of the line.
-   - `$` - Move to the end of the line.
-   - `gg` - Move to the beginning of the file.
-   - `G` - Move to the end of the file.
+2. **Saving a File**:
+   - `Ctrl + x Ctrl + s`: This will save the current buffer to its associated file.
 
-#### 4. **Copying, Cutting, and Pasting**
+3. **Saving As**:
+   - `Ctrl + x Ctrl + w`: This prompts for a new file name, and saves the current buffer with that name.
 
-   - `yy` - Copy the entire line.
-   - `yw` - Copy a word.
-   - `dd` - Cut (delete) the entire line.
-   - `dw` - Cut (delete) a word.
-   - `p` - Paste the copied or cut text after the cursor.
-   - `P` - Paste the copied or cut text before the cursor.
+4. **Creating a New File**:
+   - `Ctrl + x Ctrl + c`: This will prompt you to save the current buffer if it's modified, and then exit Emacs.
 
-# Session 4: Searching and Replacing
+## Editing Text:
 
-## Exploring Search and Replace in Emacs
+1. **Inserting Text**:
+   - Simply start typing. Emacs is in insert mode by default.
 
-In Session 4, we delve into the powerful search and replace capabilities of Emacs, providing you with efficient ways to navigate and modify your text.
+2. **Deleting Text**:
+   - `Backspace` or `Delete` keys can be used to delete characters.
+   - `Ctrl + d`: Delete the character under the cursor.
 
-### Incremental Search
+3. **Cut, Copy, and Paste**:
+   - `Ctrl + w`: Cut (Kill in Emacs terminology).
+   - `Ctrl + k`: Cut from the cursor to the end of the line.
+   - `Alt + w`: Copy (Yank in Emacs terminology).
+   - `Ctrl + y`: Paste.
 
-Emacs' incremental search allows you to find text interactively as you type. Simply press `C-s` and start typing your search query. As you type, Emacs narrows down the search results in real-time.
+4. **Undo and Redo**:
+   - `Ctrl + _` or `Ctrl + x u`: Undo.
+   - `Alt + Shift + _` or `Ctrl + g`: Cancel current action (this can also be used to exit from many prompts).
 
-### Regular Expressions in Search and Replace
+5. **Search and Replace**:
+   - `Ctrl + s`: Incremental search forward.
+   - `Ctrl + r`: Incremental search backward.
+   - `Alt + %`: Search and replace.
 
-Emacs supports regular expressions for advanced search and replace operations. This enables you to perform complex pattern matching, making it a valuable tool for manipulating text efficiently.
+## Exiting Emacs:
 
-Remember, mastering these essential editing commands in Emacs will significantly enhance your productivity and efficiency in text editing. Practice and experimentation are key to becoming proficient with these commands. Happy editing!
+1. **Exiting Emacs**:
+   - `Ctrl + x Ctrl + c`: This will prompt you to save any unsaved changes before quitting.
+
+2. **Canceling a Command**:
+   - `Ctrl + g`: This will cancel the current command or prompt.
+
+## Miscellaneous:
+
+1. **Getting Help**:
+   - `Ctrl + h`: Opens the help menu.
+
+2. **Splitting Windows**:
+   - `Ctrl + x 2`: Split the window horizontally.
+   - `Ctrl + x 3`: Split the window vertically.
+   - `Ctrl + x o`: Switch between windows.
+
+3. **Closing a Window**:
+   - `Ctrl + x 0`: Close the current window.
+

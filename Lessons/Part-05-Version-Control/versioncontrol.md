@@ -2,20 +2,22 @@
 
 ### `Table of contents`
 
-- [Introduction](#introduction)
-- [Basic Git commands within Emacs](#basic-git-commands-within-emacs)
-  - [Initializing a Git Repository](#1-initializing-a-git-repository)
-  - [Staging Changes](#2-staging-changes)
-  - [Committing Changes](#3-committing-changes)
-  - [Pushing Changes](#4-pushing-changes)
-  - [Pulling Changes](#5-pulling-changes)
-- [Viewing Diffs and Managing Branches](#viewing-diffs-and-managing-branches)
-  - [Viewing Diffs](#1-viewing-diffs)
-  - [Managing Branches](#2-managing-branches)
-- [Emacs and Version Control Workflows](#emacs-and-version-control-workflows)
-  - [Branching, Merging, and Resolving Conflicts](#1-branching-merging-and-resolving-conflicts)
-  - [Committing and Pushing Changes](#2-committing-and-pushing-changes)
-- [Conclusion](#conclusion)
+- [Integrating with Version Control Systems (e.g., Git) in Emacs](#integrating-with-version-control-systems-eg-git-in-emacs)
+    - [`Table of contents`](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Basic Git commands within Emacs](#basic-git-commands-within-emacs)
+    - [1. **Initializing a Git Repository**](#1-initializing-a-git-repository)
+    - [2. **Staging Changes**](#2-staging-changes)
+    - [3. **Committing Changes**](#3-committing-changes)
+    - [4. **Pushing Changes**](#4-pushing-changes)
+    - [5. **Pulling Changes**](#5-pulling-changes)
+  - [Viewing Diffs and Managing Branches](#viewing-diffs-and-managing-branches)
+    - [1. **Viewing Diffs**](#1-viewing-diffs)
+    - [2. **Managing Branches**](#2-managing-branches)
+  - [Emacs and Version Control Workflows](#emacs-and-version-control-workflows)
+    - [1. **Branching, Merging, and Resolving Conflicts**](#1-branching-merging-and-resolving-conflicts)
+    - [2. **Committing and Pushing Changes**](#2-committing-and-pushing-changes)
+  - [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -27,6 +29,10 @@ Version control systems are crucial tools for managing code and collaborative de
 ### 1. **Initializing a Git Repository**
 
 Emacs provides a straightforward interface for creating a new Git repository. Users can utilize the `magit-init` command to initialize a new project and set up Git version control.
+
+```shell 
+magit-init /path/to/your/directory
+```
 
 ### 2. **Staging Changes**
 
@@ -63,6 +69,8 @@ Emacs offers a suite of commands for managing Git branches. Users can create new
 ### 1. **Branching, Merging, and Resolving Conflicts**
 
 Emacs empowers users to efficiently handle branching and merging workflows. The `magit-branch` command facilitates the creation of new branches, while the merge interface allows for the seamless integration of changes from one branch into another. Additionally, Emacs provides powerful tools for resolving conflicts that may arise during the merging process.
+
+![Work-flow](image5/git-flow.png)
 
 ### 2. **Committing and Pushing Changes**
 

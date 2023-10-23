@@ -17,10 +17,6 @@ In Emacs, markers are a powerful way to remember specific positions in a buffer.
 
 Bookmarks in Emacs serve as a way to remember specific positions in files, much like bookmarks in a web browser. You can set a bookmark using `C-x r m` followed by `m`, and then provide a name. For instance, `C-x r m m` will prompt you for a bookmark name. To jump to a bookmark, you can use `C-x r b` followed by the bookmark name.
 
-![](https://github.com/AidenW8512/image/blob/main/images/ss2.png)
-
-![image](https://github.com/AidenW8512/image/blob/main/images/ss3.png)
-
 ---
 
 ## Emacs: Registers and Rectangles
@@ -29,13 +25,9 @@ Bookmarks in Emacs serve as a way to remember specific positions in files, much 
 
 Registers in Emacs are a versatile tool for storing text, positions, or even macros for later use. They're like variables that can hold a wide range of information. To save something to a register, use `C-x r s` followed by a character (e.g., `a`). This saves the current region. To retrieve the content, you can use `C-x r i` followed by the register character.
 
-![image](https://github.com/AidenW8512/image/blob/main/images/ss4.png)
-
 ### Editing Rectangular Regions
 
 Rectangles in Emacs are a powerful way to operate on columns of text rather than entire lines. You can mark a rectangular region by using `C-x SPC` (`C-x` followed by the spacebar) and then navigating with movement keys. Once selected, you can perform various operations like cut, copy, or paste with `C-x r k` (kill rectangle) or `C-x r y` (yank rectangle).
-
-![image](https://github.com/AidenW8512/image/blob/main/images/ss5.png)
 
 ---
 

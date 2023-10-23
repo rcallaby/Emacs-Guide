@@ -14,7 +14,7 @@ In Emacs, markers are a powerful way to remember specific positions in a buffer.
 ### Managing Bookmarks
 
 Bookmarks in Emacs serve as a way to remember specific positions in files, much like bookmarks in a web browser. You can set a bookmark using `C-x r m` followed by `m`, and then provide a name. For instance, `C-x r m m` will prompt you for a bookmark name. To jump to a bookmark, you can use `C-x r b` followed by the bookmark name.
-
+git add .
 ![ss3.png] (./images/ss3.png)
 
 ---

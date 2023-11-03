@@ -42,7 +42,7 @@ Emacs has a steep learning curve, especially for users unfamiliar with Lisp or w
 ### Resource Intensive
 Emacs can be resource-intensive, especially when heavily customized or when running resource-demanding plugins. On older or less powerful hardware, this might result in slower performance.
 
-### Complex Configuration**
+### Complex Configuration
 Configuring Emacs to suit your needs can be a complex task. While this allows for unparalleled customization, it can be daunting for beginners.
 
 ## Conclusion

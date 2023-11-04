@@ -24,10 +24,8 @@
 
 ## Checklist
 
-- [ ] I have reviewed the [Contributing Guidelines](CONTRIBUTING.md) for this repository.
-- [ ] I have followed the coding style and conventions of this project.
+- [ ] I have reviewed the [Contributing Guidelines](https://github.com/rcallaby/Emacs-Guide/blob/main/CONTRIBUTING.md) for this repository.
 - [ ] I have added/updated relevant documentation (if necessary).
-- [ ] The code is tested and all tests pass.
 - [ ] I have updated the version (if applicable).
 - [ ] All commit messages are meaningful and follow the established convention.
 
@@ -37,4 +35,4 @@
 
 ---
 
-By submitting this pull request, I confirm that my contribution is made under the terms of the [LICENSE](LICENSE) for this project.
+By submitting this pull request, I confirm that my contribution is made under the terms of the [LICENSE](https://github.com/rcallaby/Emacs-Guide/blob/main/LICENSE) for this project.

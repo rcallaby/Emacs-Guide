@@ -1,6 +1,8 @@
 # Emacs-Guide
 If you find this repository helpful then please consider giving it a star :star:
 
+As well, please consider checking out my [YouTube Channel](https://www.youtube.com/@richardcallaby) as that is one of the primary places where I produce free tutorials.
+
 ## Mastering Emacs
 Emacs is a powerful and extensible text editor, widely regarded as one of the most versatile and customizable tools available for editing text and writing code. Its origins date back to the 1970s, and over the years, it has evolved into a comprehensive platform that goes far beyond just text editing. In this article, we will explore the history of Emacs, delve into its unique features, compare it with other popular text editors, and discuss both its advantages and potential drawbacks.
 

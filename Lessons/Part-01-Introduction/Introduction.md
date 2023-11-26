@@ -1,16 +1,12 @@
 # Table of Contents
-- [Introduction](#introduction)
-- [Introduction](#introduction-1)
 - [History of Emacs](#history-of-emacs)
 - [Installing and Setting up Emacs](#installing-and-setting-up-emacs)
 - [Basic Navigation and Commands](#basic-navigation-and-commands)
 - [Help](#help)
 - [Customization](#customization)
 - [Conclusion](#conclusion)
-# Introduction
-# Getting Started with Emacs
 
-## Introduction
+# Getting Started with Emacs
 
 Emacs is a powerful, extensible text editor known for its versatility and flexibility. It's a favorite among developers, writers, and anyone who spends a lot of time working with text. Emacs stands out for its ability to adapt to various tasks through the use of plugins and customization, making it much more than just a text editor.
 

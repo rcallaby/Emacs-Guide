@@ -5,7 +5,7 @@ Doom Emacs is a highly extensible and pre-configured Emacs framework that aims t
 ### Step 1: Installing Doom Emacs
 
 1. **Install Emacs**:
-   Make sure you have Emacs installed on your system. You can download it from the official Emacs website: [https://www.gnu.org/software/emacs/](https://www.gnu.org/software/emacs/).
+   Make sure you have Emacs installed on your system. You can download it from the official Emacs website: [Download Emacs](https://www.gnu.org/software/emacs/).
 
 2. **Clone Doom Emacs**:
    Open your terminal and run the following command to clone the Doom Emacs repository:

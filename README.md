@@ -60,3 +60,4 @@ Emacs is a legendary text editor with a rich history and a dedicated user base. 
 - [Part 06 - Files and Directories](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-06-Files-and-Directories/filesanddirectories.md)
 - [Part 07 - Emacs Extensions](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-07-Emacs-Extensions/emacsextensions.md)
 - [Part 08 - Emacs Lisp](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-08-Emacs-Lisp/Emacs-Lisp.md)
+- [Part 09 - Doom Emacs](https://github.com/rcallaby/Emacs-Guide/blob/main/Lessons/Part-09-Doom-Emacs/doomemacs.md)

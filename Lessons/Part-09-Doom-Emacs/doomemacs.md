@@ -14,7 +14,7 @@ Doom Emacs is a highly extensible and pre-configured Emacs framework that aims t
    ```
 
 3. **Install Dependencies**:
-   Depending on your system, you may need to install additional dependencies. Refer to the [official Doom Emacs documentation](https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org#install) for detailed instructions.
+   Depending on your system, you may need to install additional dependencies. Refer to the [official Doom Emacs documentation](https://github.com/doomemacs/doomemacs/blob/master/docs/getting_started.org) for detailed instructions.
 
 4. **Run Doom Emacs**:
    Once the clone is complete, start Emacs by running `emacs` from your terminal.
@@ -60,7 +60,7 @@ Doom Emacs is designed to be highly customizable. Here's how you can start custo
    ```
 
 5. **Other Customizations**:
-   The Doom Emacs documentation provides a wide range of options for customizing your environment. Check the [official documentation](https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org#customizing) for more details.
+   The Doom Emacs documentation provides a wide range of options for customizing your environment. Check the [official documentation](https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org) for more details.
 
 ### Step 4: Updating Doom Emacs
 

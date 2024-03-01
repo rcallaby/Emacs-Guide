@@ -60,7 +60,7 @@ Doom Emacs is designed to be highly customizable. Here's how you can start custo
    ```
 
 5. **Other Customizations**:
-   The Doom Emacs documentation provides a wide range of options for customizing your environment. Check the [official documentation](https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org) for more details.
+   The Doom Emacs documentation provides a wide range of options for customizing your environment. Check the [official documentation](https://github.com/doomemacs/doomemacs/blob/master/docs/getting_started.org) for more details.
 
 ### Step 4: Updating Doom Emacs
 
